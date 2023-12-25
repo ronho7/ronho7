@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello world! 👋
+
+I am a freelance software developer in my free time. I take pride in building full-stack yet simple-to-use applications that can help tackle issues in life. I am currently looking for apprenticeship to sharpen my skills and knowledge in developing softwares.
+
+### Languages and tools
 
 <!--
 **ronho7/ronho7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
